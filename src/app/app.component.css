@@ -1,0 +1,24 @@
+button {
+  border: 1px solid rgba(198, 83, 140, 0.88);
+}
+
+input {
+  width: 25%;
+}
+
+ul, li {
+  text-align: center;
+}
+
+.table table-bordered, .table table {
+  border-color: black;
+}
+
+.edit {
+  margin-right: 10px;
+}
+
+div label {
+  font-style: rgba(198, 83, 140, 0.88);
+}
+/*# sourceMappingURL=app.component.css.map */

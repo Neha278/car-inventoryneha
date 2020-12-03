@@ -1,0 +1,48 @@
+$base-color: #c6538c;
+$border-dark: rgba($base-color, 0.88);
+$table-dark:black;
+
+// button {
+//   border: 1px solid $border-dark;
+// }
+.example-container{
+  text-align: center
+}
+button{
+  float: left;
+  margin:5px;
+  border:1px solid black;
+}
+
+.form-container{
+  width: 200 px; 
+  margin: 0 px auto; 
+  margin-top: 200 px
+}
+
+.form-field{
+  display:block;
+  width:30%;
+}
+// input{
+//     width:50%;
+// }
+ul, li {
+    text-align: center;
+
+  }
+  
+  table  {                     
+    // @extend table;
+    width: 100%;
+    }
+td{
+  text-align: justify;
+}
+
+  div{
+      mat-label{
+          font-style: $border-dark;
+      }
+  }
+    
